@@ -11,4 +11,4 @@ git clone git@github.com:xiaomi-sdm678/android_device_xiaomi_sm6150-common.git -
 
 git clone git@github.com:xiaomi-sdm678/android_kernel_xiaomi_mojito.git -b 12 kernel/xiaomi/sm6150
 
-git clone https://github.com/crdroidandroid/android_hardware_xiaomi.git -b 12.0 hardware/xiaomi
+git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-19.1 hardware/xiaomi
